@@ -1,8 +1,15 @@
 # 🐢 Intelligent Voice Operated Mobile Manipulator  
 **Real-Time Object Detection & Navigation using TurtleBot4 and MyCobot**
 
-![Voice Operated Mobile Manipulator](https://raw.githubusercontent.com/Sjschhabra/voice-operated-mobile-manipulator-turtlebot-mycobot/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2017.30.23_a184b2ec.jpg)
+## 📹 Demo Videos & Links
 
+- 🌐 [Project Website](https://ras598-2025-s-team11.github.io/)
+- ▶️ **[Final Demo Video](https://www.youtube.com/shorts/IgkybFqdJZs)** *(link to be added)*  
+- ▶️ **[Innovation Showcase Presentation](#)** *(link to be added)*
+
+---
+
+![Voice Operated Mobile Manipulator](https://raw.githubusercontent.com/Sjschhabra/voice-operated-mobile-manipulator-turtlebot-mycobot/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2017.30.23_a184b2ec.jpg)
 
 ## 🚀 Overview
 This project presents a multi-modal robotic system integrating **voice interaction**, **object detection**, and **robotic manipulation**. Using **ROS 2**, a **TurtleBot4** base, and a **MyCobot arm**, we developed a voice-guided mobile robot capable of recognizing objects, executing navigation commands, and performing precise arm motions.
@@ -118,14 +125,6 @@ Developed as part of **RAS 598: Experimentation and Deployment of Robotic System
 - Sameerjeet Singh Chhabra  
 - Anushka Gangadhar Satav  
 - Adithya Konda  
-
----
-
-## 📹 Demo Videos & Links
-
-- 🌐 [Project Website](https://ras598-2025-s-team11.github.io/)
-- ▶️ **[Final Demo Video](#)** *(link to be added)*  
-- ▶️ **[Innovation Showcase Presentation](#)** *(link to be added)*
 
 ---
 
