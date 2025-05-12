@@ -4,11 +4,11 @@
 ## 📹 Demo Videos & Links
 
 - 🌐 [Project Website](https://ras598-2025-s-team11.github.io/)
-- ▶️ **[Final Demo Video](https://www.youtube.com/shorts/IgkybFqdJZs)** *(link to be added)*  
-- ▶️ **![Innovation Showcase Presentation]([#](https://raw.githubusercontent.com/Sjschhabra/voice-operated-mobile-manipulator-turtlebot-mycobot/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2017.36.23_8033dadc.jpg))** *(link to be added)*
+- ▶️ **[Final Demo Video](https://www.youtube.com/shorts/IgkybFqdJZs)**
 
 ---
 
+![Innovation Showcase Presentation](https://raw.githubusercontent.com/Sjschhabra/voice-operated-mobile-manipulator-turtlebot-mycobot/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2017.36.23_8033dadc.jpg)
 ![Voice Operated Mobile Manipulator](https://raw.githubusercontent.com/Sjschhabra/voice-operated-mobile-manipulator-turtlebot-mycobot/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2017.30.23_a184b2ec.jpg)
 
 ## 🚀 Overview
