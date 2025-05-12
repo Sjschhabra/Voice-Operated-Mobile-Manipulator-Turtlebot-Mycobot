@@ -1,7 +1,7 @@
 # 🐢 Intelligent Voice Operated Mobile Manipulator  
 **Real-Time Object Detection & Navigation using TurtleBot4 and MyCobot**
 
-![Project Banner](https://ras598-2025-s-team11.github.io/assets/logo.png) <!-- Replace with actual image path -->
+![Project Banner](voice-operated-mobile-manipulator-turtlebot-mycobot/WhatsApp Image 2025-05-11 at 17.30.23_a184b2ec.jpg) <!-- Replace with actual image path -->
 
 ## 🚀 Overview
 This project presents a multi-modal robotic system integrating **voice interaction**, **object detection**, and **robotic manipulation**. Using **ROS 2**, a **TurtleBot4** base, and a **MyCobot arm**, we developed a voice-guided mobile robot capable of recognizing objects, executing navigation commands, and performing precise arm motions.
